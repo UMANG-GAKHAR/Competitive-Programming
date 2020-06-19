@@ -1,3 +1,3 @@
 # Competitive-Programming
-#Course by Coding Blocks.
-##Challenges
+# Course by Coding Blocks.
+## Challenges
