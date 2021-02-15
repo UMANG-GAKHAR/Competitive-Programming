@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 void findZeros(int *arr, int n, int k) {
     int wL = 0, wR = 0, bestWindow = 0, zeroCount = 0, bestL = 0;
     while(wR < n) {
