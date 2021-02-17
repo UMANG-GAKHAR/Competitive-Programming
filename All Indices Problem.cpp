@@ -1,6 +1,5 @@
 #include <bits/stdc++.h>
 using namespace std;
-
 vector<int> allIndices(const vector<int> &v, int key, int i, int idx)
 {
     if (i == v.size())
